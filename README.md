@@ -6,7 +6,7 @@ It'll have a course dedicated to 1st graders for learning C#
 
 ### Website:
 Hosted on a server at school, will host the full platform at some point.  
-Currently just a simple landing page, containing info about our Diplomarbeit in German.
+Currently just a simple landing page, containing info about our Diplomarbeit in German.  
 https://wienwestakademie.at/
 
 ### Repository for the Open edX Tutor thingy
